@@ -12,7 +12,7 @@ Take a look at my 42 Intra Profile:
 
 🔮💎My projects can be found at:
 
-<a href="norielsylvire.itch.io"><img src="https://static.itch.io/images/app-icon.svg" width=30 height=30/></a>
+<a href="https://norielsylvire.itch.io"><img src="https://static.itch.io/images/app-icon.svg" width=30 height=30/></a>
 <a href="https://content.minetest.net/users/Noriel_Sylvire/"><img src="https://content.minetest.net/favicon-32.png" width=30 height=30/></a>
 <a href="https://github.com/NorielSylvire"><img src="https://github.githubassets.com/favicons/favicon.png" width=30 height=30/></a>
 
