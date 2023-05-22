@@ -12,7 +12,7 @@ Take a look at my 42 Intra Profile:
 
 🔓✅My code is open source so feel free to pull request or make suggestions!
 
-📚🖥I'm looking for help improving my code quality, so if you see something I could do better, please tell me!
+📚🖥I'm looking for help improving my code's quality, so if you see something I could do better, please tell me!
 
 #
 
