@@ -17,3 +17,5 @@ Take a look at my 42 Intra Profile:
 <a href="https://github.com/NorielSylvire"><img src="https://github.githubassets.com/favicons/favicon.png" width=30 height=30/></a>
 
 👤🖐 My socials:
+
+![NorielSylvire's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorielSylvire&theme=dracula)
