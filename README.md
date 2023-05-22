@@ -18,4 +18,12 @@ Take a look at my 42 Intra Profile:
 
 👤🖐 My socials:
 
-![NorielSylvire's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorielSylvire&theme=dracula)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/flaviu-e-hongu-9a7a5a1b9) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NSylvire) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@norielsylvire/featured)
+
+
+<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NorielSylvire&theme=onedark"/></p>
+
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorielSylvire&theme=monokai"/></p>
