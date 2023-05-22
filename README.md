@@ -20,11 +20,11 @@ Take a look at my 42 Intra Profile:
 
 <p align="center"><a href="https://norielsylvire.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 <a href="https://github.com/NorielSylvire"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://content.minetest.net/users/Noriel_Sylvire/"><img src="https://img.shields.io/badge/ContentDB-Minetest%20Mod%20Database-brightgreen"/></a></p>
+<a href="https://content.minetest.net/users/Noriel_Sylvire/"><img src="https://img.shields.io/badge/Minetest-ContentDB-brightgreen?logo=Minetest&style=for-the-badge&logoColor=brightgreen"/></a></p>
 
 #
 
-👤🖐 My socials:
+👤🖐 Add me on my socials:
 
 
 <p align="center">
