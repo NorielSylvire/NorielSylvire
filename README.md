@@ -32,7 +32,13 @@ Take a look at my 42 Intra Profile:
 
 #
 
-<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NorielSylvire&theme=onedark"/></p>
+🔨🧰 Programming Languages and Tools:
+
+<p align="center"><img src="https://worldvectorlogo.com/logos/c-1.svg" width=40/> <img src="https://worldvectorlogo.com/logos/c.svg" width=40/> <img src="https://worldvectorlogo.com/logos/lua-5.svg" width=40/><img src="https://worldvectorlogo.com/logos/godot-1.svg" width=50/><img src="https://worldvectorlogo.com/logos/unity-69.svg" width=40/> <img src="https://worldvectorlogo.com/logos/c--4.svg" width=40/> <img src="https://worldvectorlogo.com/logos/intellij-idea-1.svg" width=40/> <img src="https://worldvectorlogo.com/logos/eclipse-11.svg" width=40/> <img src="https://worldvectorlogo.com/logos/java-4.svg" height=50/> <img src="https://worldvectorlogo.com/logos/spring-3.svg" width=40/> <img src="https://worldvectorlogo.com/logos/apache-maven-1.svg" width=40/> <img src="https://worldvectorlogo.com/logos/logo-javascript.svg" width=40/> <img src="https://worldvectorlogo.com/logos/html-1.svg" width=40/> <img src="https://worldvectorlogo.com/logos/jenkins-1.svg" height=50/> <img src="https://worldvectorlogo.com/logos/git-icon.svg" width=40/> <img src="https://worldvectorlogo.com/logos/linux-tux.svg" width=40/> <img src="https://worldvectorlogo.com/logos/ubuntu-4.svg" width=40/> </p>
+
+#
+
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NorielSylvire&theme=onedark"/> </p>
 
 ##
 
