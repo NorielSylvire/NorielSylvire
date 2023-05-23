@@ -28,7 +28,7 @@ Take a look at my 42 Intra Profile:
 
 
 <p align="center">
-<a href="https://es.linkedin.com/in/flaviu-e-hongu-9a7a5a1b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/NSylvire"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.youtube.com/@norielsylvire/featured"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> </p>
+<a href="https://es.linkedin.com/in/flaviu-e-hongu-9a7a5a1b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://mastodon.social/@norielsylvire"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a> <a href="https://www.youtube.com/@norielsylvire/featured"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> <a href="https://twitter.com/NSylvire"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> </p>
 
 #
 
