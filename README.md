@@ -52,12 +52,12 @@ Take a look at my 42 Intra Profile:
 **🔨🧰 Programming Languages and Tools:**
 
 <p align="center">
+  <img src="https://worldvectorlogo.com/logos/unity-69.svg" width=40/>
+  <img src="https://worldvectorlogo.com/logos/c--4.svg" width=40/>
   <img src="https://worldvectorlogo.com/logos/c-1.svg" width=40/>
   <img src="https://worldvectorlogo.com/logos/c.svg" width=40/>
   <img src="https://worldvectorlogo.com/logos/lua-5.svg" width=40/>
   <img src="https://worldvectorlogo.com/logos/godot-1.svg" width=50/>
-  <img src="https://worldvectorlogo.com/logos/unity-69.svg" width=40/>
-  <img src="https://worldvectorlogo.com/logos/c--4.svg" width=40/>
   <img src="https://worldvectorlogo.com/logos/intellij-idea-1.svg" width=40/>
   <img src="https://worldvectorlogo.com/logos/eclipse-11.svg" width=40/>
   <img src="https://worldvectorlogo.com/logos/java-4.svg" height=50/>
