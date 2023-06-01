@@ -83,7 +83,7 @@ Take a look at my 42 Intra Profile:
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NorielSylvire&theme=onedark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorielSylvire&theme=onedark&hide=html,css,scss&langs_count=7&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorielSylvire&theme=onedark&hide=html,css,scss&langs_count=8&layout=compact"/>
 </p>
 
 ##
