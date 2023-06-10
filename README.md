@@ -85,17 +85,18 @@
 
 <details>
   <summary align="center"><b>👽 Profile Summary:</b></summary>
+  <br/>
   <p align="center">
     <img src="https://img.shields.io/badge/Made%20With-Love-orange.svg" alt="Made With Love"/>
     <img src="https://img.shields.io/github/followers/NorielSylvire?color=red&logo=github&style=flat" alt="GitHub Followers"/>
   </p>
-
+  <br/>
   <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NorielSylvire&theme=onedark" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorielSylvire&theme=onedark&hide=html,css,scss&langs_count=8&layout=compact" alt="Top Languages"/>
   </p>
 
-  ##
+  <br/>
 
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorielSylvire&theme=onedark" alt="Profile Details"/>
