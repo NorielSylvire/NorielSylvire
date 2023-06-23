@@ -88,7 +88,9 @@
   <br/>
   <p align="center">
     <img src="https://img.shields.io/badge/Made%20With-Love-orange.svg" alt="Made With Love"/>
-    <img src="https://img.shields.io/github/followers/NorielSylvire?color=red&logo=github&style=flat" alt="GitHub Followers"/>
+    <a href="https://github.com/NorielSylvire?tab=followers">
+      <img src="https://img.shields.io/github/followers/NorielSylvire?color=red&logo=github&style=flat" alt="GitHub Followers"/>
+    </a>
   </p>
   <br/>
   <p align="center">
