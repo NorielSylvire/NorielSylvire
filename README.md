@@ -66,6 +66,7 @@
     <img src="https://worldvectorlogo.com/logos/godot-1.svg" width="50" alt="Godot logo"/>
     <img src="https://worldvectorlogo.com/logos/intellij-idea-1.svg" width="40" alt="IntelliJ IDEA logo"/>
     <img src="https://worldvectorlogo.com/logos/eclipse-11.svg" width="40" alt="Eclipse logo"/>
+    <img src="https://worldvectorlogo.com/logos/grails-1.svg" height="30" alt="Grails logo"/>
     <img src="https://worldvectorlogo.com/logos/java-4.svg" height="50" alt="Java logo"/>
     <img src="https://worldvectorlogo.com/logos/spring-3.svg" width="40" alt="Spring logo"/>
     <img src="https://worldvectorlogo.com/logos/jquery-4.svg" width="40" alt="jQuery logo"/>
