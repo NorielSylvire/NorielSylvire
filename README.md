@@ -3,7 +3,7 @@
 
 #
 
-<img align="right" src="https://badge42.vercel.app/api/v2/clhxrw1x7000608mi0kserdz4/stats?cursusId=21&coalitionId=64" alt="My 42 Intra Profile Badge"/>
+<!-- <img align="right" src="https://badge42.vercel.app/api/v2/clhxrw1x7000608mi0kserdz4/stats?cursusId=21&coalitionId=64" alt="My 42 Intra Profile Badge"/> -->
   
 - 💻🌸 I'm currently working as a Web Developer (intern) [@fujitsu](https://github.com/fujitsu)
   
