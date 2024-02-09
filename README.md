@@ -5,7 +5,7 @@
 
 <img align="right" src="https://badge.mediaplus.ma/black/fhongu" alt="My 42 Intra Profile Badge" style="height:200px"/>
   
-- 💻🌸 I'm currently working as a Web Developer (intern) [@fujitsu](https://github.com/fujitsu)
+- 💻🌸 I'm currently working as a Jr. Fullstack Developer [@fujitsu](https://github.com/fujitsu)
   
 -  🚀✨ I'm also learning Computer Science [@42Madrid](https://github.com/42School)!
   
