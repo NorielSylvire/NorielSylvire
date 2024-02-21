@@ -7,7 +7,7 @@
   
 - 💻🌸 I'm currently working as a Jr. Fullstack Developer [@fujitsu](https://github.com/fujitsu)
   
--  🚀✨ I'm also learning Computer Science [@42Madrid](https://github.com/42School)!
+-  🚀✨ I'm also learning Software Engineering [@42Madrid](https://github.com/42School)!
   
 - 🔓✅ My code is open source so feel free to pull request, fork, or submit suggestions!
   
