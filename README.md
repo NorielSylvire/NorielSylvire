@@ -46,9 +46,6 @@
     <a href="https://www.youtube.com/@norielsylvire/featured">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube - Check out my YouTube channel"/>
     </a>
-    <a href="https://twitter.com/NSylvire">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter - Follow me on Twitter"/>
-    </a>
   </p>
 </details>
 
