@@ -3,7 +3,7 @@
 
 #
 
-<img align="right" src="https://badge.mediaplus.ma/black/fhongu" alt="My 42 Intra Profile Badge" style="height:200px"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user={norielsylvire}&theme=onedark" alt="My 42 Intra Profile Badge" style="height:200px"/>
   
 - 💻🌸 I'm currently working as a Jr. Fullstack Developer [@fujitsu](https://github.com/fujitsu)
   
