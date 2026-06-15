@@ -5,9 +5,9 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user={norielsylvire}&theme=onedark" alt="My 42 Intra Profile Badge" style="height:200px"/>
   
-- 💻🌸 I'm currently working as a Jr. Fullstack Developer [@fujitsu](https://github.com/fujitsu)
+- 💻🌸 I'm currently working as a Fullstack Developer [@fujitsu](https://github.com/fujitsu)
   
--  🚀✨ I'm also learning Software Engineering [@42Madrid](https://github.com/42School)!
+-  🚀✨ I've spent a couple years learning Software Engineering [@42Madrid](https://github.com/42School)! (as well as @UCM)
   
 - 🔓✅ My code is open source so feel free to pull request, fork, or submit suggestions!
   
