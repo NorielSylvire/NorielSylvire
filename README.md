@@ -3,9 +3,9 @@
 
 #
 
-<table>
+<table border="0">
   <tr>
-    <td valign="top" style="border: none;">
+    <td valign="top" border="0">
       <ul>
         <li>💻🌸 I'm currently working as a Fullstack Developer <a href="https://github.com/fujitsu">@fujitsu</a></li>
         <li>🚀✨ I've spent a couple years learning Software Engineering <a href="https://github.com/42School">@42Madrid</a>! (as well as @UCM)</li>
@@ -13,11 +13,8 @@
         <li>📚🖥 I'm looking for help improving my coding skills, so if you see something I could do better, please tell me!</li>
       </ul>
     </td>
-    <td valign="top" style="border: none;">
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=10&theme=onedark"
-        width="400"
-      />
+    <td valign="top" border="0">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=10&theme=onedark" width="400" />
     </td>
   </tr>
 </table>
