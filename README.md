@@ -2,8 +2,7 @@
 <h3 align="center"> A Madrid-based Full-Stack intern with diverse expertise.
 
 #
-
-<img align="right" src="https://badge.mediaplus.ma/greenbinary/fhongu" alt="My 42 Intra Profile Badge" style="height:200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorielSylvire&theme=onedark&hide=html,css,scss&langs_count=8&layout=compact" style="height:200px" alt="Top Languages"/>
   
 - 💻🌸 I'm currently working as a Fullstack Developer [@fujitsu](https://github.com/fujitsu)
   
@@ -93,7 +92,6 @@
   <br/>
   <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NorielSylvire&theme=onedark" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorielSylvire&theme=onedark&hide=html,css,scss&langs_count=8&layout=compact" alt="Top Languages"/>
   </p>
 
   <br/>
