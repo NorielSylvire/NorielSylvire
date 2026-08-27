@@ -3,15 +3,21 @@
 
 #
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=10)
-  
-- 💻🌸 I'm currently working as a Fullstack Developer [@fujitsu](https://github.com/fujitsu)
+<div align=center>
+  <div>
+    - 💻🌸 I'm currently working as a Fullstack Developer [@fujitsu](https://github.com/fujitsu)
   
 -  🚀✨ I've spent a couple years learning Software Engineering [@42Madrid](https://github.com/42School)! (as well as @UCM)
   
 - 🔓✅ My code is open source so feel free to pull request, fork, or submit suggestions!
   
 - 📚🖥 I'm looking for help improving my coding skills, so if you see something I could do better, please tell me!
+  </div>
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=10)
+</div>
+
+
+
 
 #
 
