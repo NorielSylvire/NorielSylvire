@@ -4,13 +4,13 @@
 #
 
 <div>
+  <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=10&theme=onedark" width="400" />
   <ul>
     <li>💻🌸 I'm currently working as a Fullstack Developer <a href="https://github.com/fujitsu">@fujitsu</a></li>
     <li>🚀✨ I've spent a couple years learning Software Engineering <a href="https://github.com/42School">@42Madrid</a>! (as well as @UCM)</li>
     <li>🔓✅ My code is open source so feel free to pull request, fork, or submit suggestions!</li>
     <li>📚🖥 I'm looking for help improving my coding skills, so if you see something I could do better, please tell me!</li>
   </ul>
-  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=10&theme=onedark" width="400" />
 </div>
 
 
