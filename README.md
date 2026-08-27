@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Flaviu (aka Noriel Sylvire)! 👋</h1>
 <h3 align="center"> A Madrid-based Full-Stack intern with diverse expertise.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+#
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=10)
   
 - 💻🌸 I'm currently working as a Fullstack Developer [@fujitsu](https://github.com/fujitsu)
   
