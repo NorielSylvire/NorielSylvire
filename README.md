@@ -4,7 +4,7 @@
 #
 
 <div>
-  <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=10&theme=onedark" width="400" />
+  <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=norielsylvire&langs_count=5&theme=onedark" width="400" />
   <ul>
     <li>💻🌸 I'm currently working as a Fullstack Developer <a href="https://github.com/fujitsu">@fujitsu</a></li>
     <li>🚀✨ I've spent a couple years learning Software Engineering <a href="https://github.com/42School">@42Madrid</a>! (as well as @UCM)</li>
@@ -64,8 +64,8 @@
     <img src="https://worldvectorlogo.com/logos/c.svg" width="40" alt="C logo"/>
     <img src="https://worldvectorlogo.com/logos/lua-5.svg" width="40" alt="Lua logo"/>
     <img src="https://worldvectorlogo.com/logos/godot-1.svg" width="50" alt="Godot logo"/>
-    <img src="https://worldvectorlogo.com/logos/intellij-idea-1.svg" width="40" alt="IntelliJ IDEA logo"/>
-    <img src="https://worldvectorlogo.com/logos/eclipse-11.svg" width="40" alt="Eclipse logo"/>
+    <img src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" width="40" alt="ASP.NET logo"/>
+    <img src="https://www.php.net//images/logos/new-php-logo.svg" width="40" alt="PHP Logo"/>
     <img src="https://worldvectorlogo.com/logos/grails-1.svg" height="30" alt="Grails logo"/>
     <img src="https://worldvectorlogo.com/logos/java-4.svg" height="50" alt="Java logo"/>
     <img src="https://worldvectorlogo.com/logos/spring-3.svg" width="40" alt="Spring logo"/>
@@ -78,7 +78,7 @@
     <img src="https://worldvectorlogo.com/logos/git-icon.svg" width="40" alt="Git logo"/>
     <img src="https://learn.microsoft.com/en-us/cpp/media/index/logo-asm.svg" width="40" alt="Assembly logo"/>
     <img src="https://worldvectorlogo.com/logos/linux-tux.svg" width="40" alt="Linux logo"/>
-    <img src="https://worldvectorlogo.com/logos/ubuntu-4.svg" width="40" alt="Ubuntu logo"/>
+    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40" alt="Arch Linux logo"/>
   </p>
 </details>
 
