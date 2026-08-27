@@ -71,7 +71,7 @@
     <img src="https://worldvectorlogo.com/logos/spring-3.svg" width="40" alt="Spring logo"/>
     <img src="https://worldvectorlogo.com/logos/jquery-4.svg" width="40" alt="jQuery logo"/>
     <img src="https://worldvectorlogo.com/logos/typescript.svg" width="40" alt="TypeScript logo"/>
-    <img src="https://worldvectorlogo.com/logos/logo-javascript.svg" width="40" alt="JavaScript logo"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40" alt="JavaScript logo"/>
     <img src="https://worldvectorlogo.com/logos/css-3.svg" width="40" alt="CSS logo"/>
     <img src="https://worldvectorlogo.com/logos/html-1.svg" width="40" alt="HTML logo"/>
     <img src="https://worldvectorlogo.com/logos/jenkins-1.svg" height="50" alt="Jenkins logo"/>
@@ -95,7 +95,7 @@
   </p>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NorielSylvire&theme=onedark" alt="GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=NorielSylvire&theme=onedark" alt="GitHub Stats"/>
   </p>
 
   <br/>
