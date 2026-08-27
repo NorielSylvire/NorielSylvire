@@ -3,7 +3,7 @@
 
 #
 
-<img align="right" src="https://badge.mediaplus.ma/darkblue/norielsylvire" alt="My 42 Intra Profile Badge" style="height:200px"/>
+<img align="right" src="https://badge.mediaplus.ma/greenbinary/fhongu" alt="My 42 Intra Profile Badge" style="height:200px"/>
   
 - 💻🌸 I'm currently working as a Fullstack Developer [@fujitsu](https://github.com/fujitsu)
   
