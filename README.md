@@ -3,7 +3,7 @@
 
 #
 
-<div align=center>
+<div>
   <div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
     <ul align="left">
       <li>💻🌸 I'm currently working as a Fullstack Developer <a href="https://github.com/fujitsu">@fujitsu</a></li>
