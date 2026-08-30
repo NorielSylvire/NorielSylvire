@@ -64,7 +64,7 @@
     <img src="https://worldvectorlogo.com/logos/c.svg" width="40" alt="C logo"/>
     <img src="https://worldvectorlogo.com/logos/lua-5.svg" width="40" alt="Lua logo"/>
     <img src="https://worldvectorlogo.com/logos/godot-1.svg" width="50" alt="Godot logo"/>
-    <div style="background-color: solid gray; border-radius: 10px;"><img src="https://www.svgrepo.com/show/508894/aspnet.svg" width="40" alt="ASP.NET logo"/></div>
+    <img src="https://www.svgrepo.com/show/508894/aspnet.svg" width="40" alt="ASP.NET logo"/>
     <img src="https://www.php.net//images/logos/new-php-logo.svg" width="40" alt="PHP Logo"/>
     <img src="https://worldvectorlogo.com/logos/grails-1.svg" height="30" alt="Grails logo"/>
     <img src="https://worldvectorlogo.com/logos/java-4.svg" height="50" alt="Java logo"/>
